@@ -1,0 +1,86 @@
+.btn-circle.btn-md {
+            width: 40px;
+            height: 40px;
+            padding: 7px 10px;
+            border-radius: 25px;
+            font-size: 10px;
+            text-align: center;
+            margin: 2px;
+            background-color: lightgray;
+            border: 1px solid lightgray;
+            color: black;
+        }
+        .foral {
+            font-weight: bold;
+            padding-top: 20px;
+        }
+        .adc {
+            background-color: blue;
+            color: white;
+            border-radius: 4px;
+            border: 1px solid blue;
+
+        }
+        /*.siz {
+            text-align: right;
+            padding-bottom: 20px;
+        }*/
+        .prd {
+            margin-top: 20px;
+        }
+    /*    * {
+            box-sizing: content-box;
+        }*/
+        body {
+            display: flex;
+            flex-direction:column;
+
+        }
+        input {
+            border-radius: 4px;
+            width: 100px;
+        }
+
+.second {
+    margin-top: 30px;
+}
+
+.sbt {
+    border-radius: 4px;
+    margin-bottom: 4px;
+    margin-top: 3px;
+    background-color: blue;
+    color: white;
+    border: 1px solid blue;
+}
+.main {
+    margin-bottom: 39px;
+}
+.footer {
+    text-align: center;
+    background-color: #f8f9fa;
+    margin-bottom: 0px;
+    color: black;
+}
+hr {
+    width: 10%;
+    background-color: goldenrod;
+    border: 1px solid goldenrod;
+    
+    margin-right: 80%;
+   
+}
+.fr {
+    background-color: black;
+    text-align: right;
+    color: white;
+    float: right;
+    margin-right: 55px;
+    margin-bottom: 3px;
+   
+
+}
+.col-md-3 {
+    margin-top: 20px;
+}
+
